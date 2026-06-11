@@ -1,8 +1,2 @@
-ow are you Iam fne Just Testing the Git Repositoryy
-How are you
-Dear J9
-ALpha
-Beta
-Gamma
-Dance
-Laptop
+This is the 3rd edit of this notebook
+
